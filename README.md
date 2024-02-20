@@ -5,7 +5,7 @@ Front-end Developer
 
 DX, UI, and Performance are my favorite topics. -->
 
-Twitter: @thediavall
-LinkedIn: @diaval
+Twitter: [@thediavall](https://x.com/thediavall) <br/>
+LinkedIn: [@diaval](https://www.linkedin.com/in/diaval/)
 
-Reach out at thediavall@gmail.com
+Reach out at [thediavall@gmail.com](mailto:thediavall@gmail.com)
