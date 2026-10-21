@@ -1,9 +1,5 @@
 ## Yasin Aydın
-Front-end Developer
-
-<!-- Formerly at @H&M, @Adidas (through @Reaktor), @X-Team, @Rocketseat.
-
-DX, UI, and Performance are my favorite topics. -->
+Software Engineer
 
 Twitter: [@thediavall](https://x.com/thediavall) <br/>
 LinkedIn: [@diaval](https://www.linkedin.com/in/diaval/)
